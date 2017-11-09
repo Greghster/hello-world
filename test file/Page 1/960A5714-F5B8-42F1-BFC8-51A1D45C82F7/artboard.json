@@ -62,8 +62,8 @@
       "id": "8FC41C22-506F-4C8F-9AC6-B3B2BD69C84F"
     }
   ],
-  "name": "iPhone SE",
-  "nameIsFixed": false,
+  "name": "artboard 1",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

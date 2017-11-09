@@ -14,9 +14,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 183,
-    "width": 283,
-    "x": 18,
+    "height": 541,
+    "width": 320,
+    "x": 0,
     "y": 27
   },
   "hasClickThrough": false,
@@ -25,11 +25,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "C6AE6EC7-CEFD-4E4B-8DB7-9C68A3C64FED"
+    },
+    {
+      "class": "rectangle",
+      "id": "598DF230-D3DF-40DA-AC80-4B9E5DE2FD52"
     }
   ],
   "name": "Rectangle",

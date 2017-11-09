@@ -26,7 +26,7 @@
     "y": -98
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,8 +54,8 @@
       "id": "7509A63C-3796-4068-823B-D132243A5DC4"
     }
   ],
-  "name": "iPhone SE Copy 2",
-  "nameIsFixed": false,
+  "name": "artboard 3",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
