@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": -105,
+    "height": 568,
+    "width": 320,
+    "x": -51,
     "y": -98
   },
   "hasBackgroundColor": false,
@@ -56,7 +56,7 @@
   ],
   "name": "iPhone SE",
   "nameIsFixed": false,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
