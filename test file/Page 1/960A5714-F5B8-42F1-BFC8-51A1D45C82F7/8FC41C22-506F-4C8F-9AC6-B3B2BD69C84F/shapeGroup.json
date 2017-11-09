@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "757AEBB2-0857-4BD4-85F6-ED62472CF2F6",
+  "do_objectID": "8FC41C22-506F-4C8F-9AC6-B3B2BD69C84F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 569,
-    "width": 320,
-    "x": 0,
-    "y": -1
+    "height": 183,
+    "width": 283,
+    "x": 18,
+    "y": 21
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "5BB78E47-C936-4A80-9141-55EE0C336558"
+      "id": "7B3D9732-8EE0-46DF-8908-2A117B07B18F"
     }
   ],
   "name": "Rectangle",
@@ -63,43 +63,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8790007829666138,
-          "green": 0.06114692240953445,
-          "red": 0.7398750185966492
+          "blue": 1,
+          "green": 0.46168681755303,
+          "red": 0
         },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 1}",
-          "gradientType": 0,
-          "shouldSmoothenOpacity": true,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.2156862745098039,
-                "green": 0.6431372549019608,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.3176470588235294,
-                "green": 0.7647058823529411,
-                "red": 1
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, -0.33697896424407148}"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
